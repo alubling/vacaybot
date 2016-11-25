@@ -1,0 +1,13 @@
+{
+  "name": "vacaybot",
+  "version": "1.0.0",
+  "description": "a slack bot that updates your team on their vacation schedules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "beepboop-botkit": "^1.4.1",
+    "botkit": "~0.4.2"
+  }
+}
